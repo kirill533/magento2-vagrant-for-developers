@@ -2,6 +2,7 @@
 # vi: set ft=ruby :
 
 Vagrant.require_version ">= 1.8"
+#Vagrant::DEFAULT_SERVER_URL.replace('https://vagrantcloud.com')
 
 require 'yaml'
 
