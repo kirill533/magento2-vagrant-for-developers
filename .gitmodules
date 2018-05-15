@@ -1,0 +1,3 @@
+[submodule "m2-pbi"]
+	path = m2-pbi
+	url = git@bitbucket.org:kirill533/m2-pbi.git
